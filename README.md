@@ -32,4 +32,4 @@ Kaggle notebook
 ```
 
 ## 📊 Results  
-- **Logistic Regression** performed well with good precision & recall.  
+- **Logistic Regression** performed well with good precision & recall.
